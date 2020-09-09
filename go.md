@@ -6,3 +6,7 @@
 ## HighLoad
 ### Patterns
 [1M rps golang](https://habr.com/ru/post/262045/)
+
+## Templating
+### Howtos
+[Cheatsheet](https://curtisvermeeren.github.io/2017/09/14/Golang-Templates-Cheatsheet)
